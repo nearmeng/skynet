@@ -1,0 +1,60 @@
+[:01000004][DEBUG][18:44:00.85]connect from 9.135.218.195:49320 7
+[:01000004][DEBUG][18:44:02.45]disconnect fd = 7, error = ./skynet/service/cmaster.lua:33: closed
+[:01000004][DEBUG][18:44:02.49]connect from 9.135.218.195:50023 8
+[:01000004][DEBUG][18:44:04.09]disconnect fd = 8, error = ./skynet/service/cmaster.lua:35: closed
+[:01000004][DEBUG][18:44:04.12]connect from 9.135.218.195:50666 9
+[:01000004][DEBUG][18:44:04.12]disconnect fd = 9, error = ./skynet/service/cmaster.lua:35: closed
+[:01000004][DEBUG][18:44:04.18]connect from 9.135.218.195:50671 10
+[:01000004][DEBUG][18:44:05.78]disconnect fd = 10, error = ./skynet/service/cmaster.lua:35: closed
+[:01000004][DEBUG][18:44:05.82]connect from 9.135.218.195:50994 11
+[:01000004][DEBUG][18:44:07.42]disconnect fd = 11, error = ./skynet/service/cmaster.lua:35: closed
+[:01000004][DEBUG][18:44:07.45]connect from 9.135.218.195:51497 12
+[:01000004][DEBUG][18:44:09.06]disconnect fd = 12, error = ./skynet/service/cmaster.lua:35: closed
+[:01000004][DEBUG][18:44:09.09]connect from 9.135.218.195:53341 13
+[:01000004][DEBUG][18:44:10.69]disconnect fd = 13, error = ./skynet/service/cmaster.lua:35: closed
+[:01000004][DEBUG][18:44:10.73]connect from 9.135.218.195:54294 14
+[:01000004][DEBUG][18:44:10.73]disconnect fd = 14, error = ./skynet/service/cmaster.lua:36: Invalid serialize stream 79 (line:517)
+[:01000004][DEBUG][18:44:10.79]connect from 9.135.218.195:54309 15
+[:01000004][DEBUG][18:44:12.39]disconnect fd = 15, error = ./skynet/service/cmaster.lua:35: closed
+[:01000004][DEBUG][18:44:12.43]connect from 9.135.218.195:54772 16
+[:01000004][DEBUG][18:44:12.43]disconnect fd = 16, error = ./skynet/service/cmaster.lua:35: closed
+[:01000004][DEBUG][18:44:12.49]connect from 9.135.218.195:54781 17
+[:01000004][DEBUG][18:44:12.49]disconnect fd = 17, error = ./skynet/service/cmaster.lua:36: Invalid serialize stream 3 (line:417)
+[:01000004][DEBUG][18:44:12.55]connect from 9.135.218.195:54786 18
+[:01000004][DEBUG][18:44:14.16]disconnect fd = 18, error = ./skynet/service/cmaster.lua:35: closed
+[:01000004][DEBUG][18:44:14.19]connect from 9.135.218.195:56788 19
+[:01000004][DEBUG][18:44:15.79]disconnect fd = 19, error = ./skynet/service/cmaster.lua:35: closed
+[:01000004][DEBUG][18:44:15.82]connect from 9.135.218.195:57183 20
+[:01000004][DEBUG][18:44:17.43]disconnect fd = 20, error = ./skynet/service/cmaster.lua:35: closed
+[:01000004][DEBUG][18:44:17.46]connect from 9.135.218.195:57479 21
+[:01000004][DEBUG][18:44:17.46]disconnect fd = 21, error = ./skynet/service/cmaster.lua:36: Invalid serialize stream 2 (line:417)
+[:01000004][DEBUG][18:44:17.54]connect from 9.135.218.195:57489 22
+[:01000004][DEBUG][18:44:17.54]disconnect fd = 22, error = ./skynet/service/cmaster.lua:36: Invalid serialize stream 3 (line:500)
+[:01000004][DEBUG][18:44:17.61]connect from 9.135.218.195:57498 23
+[:01000004][DEBUG][18:44:19.21]disconnect fd = 23, error = ./skynet/service/cmaster.lua:35: closed
+[:01000004][DEBUG][18:44:19.25]connect from 9.135.218.195:57728 24
+[:01000004][DEBUG][18:44:20.85]disconnect fd = 24, error = ./skynet/service/cmaster.lua:33: closed
+[:01000004][DEBUG][18:44:20.89]connect from 9.135.218.195:57919 25
+[:01000004][DEBUG][18:44:20.89]disconnect fd = 25, error = ./skynet/service/cmaster.lua:60: attempt to concatenate a boolean value (local 't')
+[:01000004][DEBUG][18:44:20.95]connect from 9.135.218.195:57923 26
+[:01000004][DEBUG][18:44:22.96]disconnect fd = 26, error = ./skynet/service/cmaster.lua:60: attempt to concatenate a nil value (local 't')
+[:01000004][DEBUG][18:44:22.99]connect from 9.135.218.195:58146 27
+[:01000004][DEBUG][18:44:25.99]disconnect fd = 27, error = ./skynet/service/cmaster.lua:60: attempt to concatenate a nil value (local 't')
+[:01000004][DEBUG][18:44:25.02]connect from 9.135.218.195:58339 28
+[:01000004][DEBUG][18:44:27.03]disconnect fd = 28, error = ./skynet/service/cmaster.lua:60: attempt to concatenate a nil value (local 't')
+[:01000004][DEBUG][18:44:27.06]connect from 9.135.218.195:58486 29
+[:01000004][DEBUG][18:44:30.06]disconnect fd = 29, error = ./skynet/service/cmaster.lua:35: closed
+[:01000004][DEBUG][18:44:30.09]connect from 9.135.218.195:59216 30
+[:01000004][DEBUG][18:44:33.09]disconnect fd = 30, error = ./skynet/service/cmaster.lua:35: closed
+[:01000004][DEBUG][18:44:33.13]connect from 9.135.218.195:60236 31
+[:01000004][DEBUG][18:44:34.73]disconnect fd = 31, error = ./skynet/service/cmaster.lua:35: closed
+[:01000004][DEBUG][18:44:34.77]connect from 9.135.218.195:60566 32
+[:01000004][DEBUG][18:44:36.38]disconnect fd = 32, error = ./skynet/service/cmaster.lua:33: closed
+[:01000004][DEBUG][18:44:36.41]connect from 9.135.218.195:33940 33
+[:01000004][DEBUG][18:44:38.02]disconnect fd = 33, error = ./skynet/service/cmaster.lua:33: closed
+[:01000004][DEBUG][18:44:38.04]connect from 9.135.218.195:34354 34
+[:01000004][DEBUG][18:44:38.04]disconnect fd = 34, error = ./skynet/service/cmaster.lua:36: Invalid serialize stream 10 (line:517)
+[:01000004][DEBUG][18:44:38.61]connect from 9.135.218.195:34467 35
+[:01000004][DEBUG][18:44:38.61]disconnect fd = 35, error = ./skynet/service/cmaster.lua:36: Invalid serialize stream 10 (line:517)
+[:01000004][DEBUG][18:44:39.18]connect from 9.135.218.195:34597 36
+[:01000004][DEBUG][18:44:39.18]disconnect fd = 36, error = ./skynet/service/cmaster.lua:36: Invalid serialize stream 10 (line:517)

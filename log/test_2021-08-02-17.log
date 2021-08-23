@@ -1,0 +1,25 @@
+[:01000002][DEBUG][17:19:31.00]LAUNCH snlua bootstrap
+[:01000003][DEBUG][17:19:31.00]LAUNCH snlua launcher
+[:01000004][DEBUG][17:19:31.00]LAUNCH snlua cmaster
+[:01000004][DEBUG][17:19:31.00]master listen socket 0.0.0.0:2013
+[:01000005][DEBUG][17:19:31.01]LAUNCH snlua cslave
+[:01000005][DEBUG][17:19:31.01]slave connect to master 127.0.0.1:2013
+[:01000004][DEBUG][17:19:31.01]connect from 127.0.0.1:40353 4
+[:01000006][DEBUG][17:19:31.01]LAUNCH harbor 1 16777221
+[:01000004][DEBUG][17:19:31.01]Harbor 1 (fd=4) report 127.0.0.1:2526
+[:01000005][DEBUG][17:19:31.01]Waiting for 0 harbors
+[:01000005][DEBUG][17:19:31.01]Shakehand ready
+[:01000007][DEBUG][17:19:31.01]LAUNCH snlua datacenterd
+[:01000008][DEBUG][17:19:31.01]LAUNCH snlua service_mgr
+[:01000009][DEBUG][17:19:31.01]LAUNCH snlua main
+[:01000009][DEBUG][17:19:31.01]Server start
+[:0100000a][DEBUG][17:19:31.01]LAUNCH snlua protoloader
+[:0100000b][DEBUG][17:19:31.01]LAUNCH snlua debug_console 8000
+[:0100000b][DEBUG][17:19:31.01]Start debug console at 127.0.0.1:8000
+[:0100000c][DEBUG][17:19:31.01]LAUNCH snlua simpledb
+[:0100000d][DEBUG][17:19:31.01]LAUNCH snlua watchdog
+[:0100000e][DEBUG][17:19:31.01]LAUNCH snlua gate
+[:0100000e][DEBUG][17:19:31.01]Listen on 0.0.0.0:8888
+[:01000009][DEBUG][17:19:31.01]Watchdog listen on 8888
+[:01000009][DEBUG][17:19:31.01]KILL self
+[:01000002][DEBUG][17:19:31.01]KILL self
